@@ -13,4 +13,7 @@ Turn your Human data export into a map with Mapbox Studio
 10. Style your data
 
 
+<img src="https://raw.githubusercontent.com/pveugen/human-to-geojson/master/mapbox-studio.png" alt="Data uploaded to Mapbox Studio">
+
+
 <img src="https://raw.githubusercontent.com/pveugen/human-to-geojson/master/mapbox-example.png" alt="Example of a Mapbox heatmap map with Human data">
