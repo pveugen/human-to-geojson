@@ -11,3 +11,6 @@ Turn your Human data export into a map with Mapbox Studio
 8. Create a new Tileset and upload the generated output.geojson file.
 9. Tap the ≡ icon next to your newly created Tileset and select _Add to Style_
 10. Style your data
+
+
+<img src="https://raw.githubusercontent.com/pveugen/human-to-geojson/master/mapbox-example.png" alt="Example of a Mapbox heatmap map with Human data">
